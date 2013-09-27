@@ -27,14 +27,14 @@ body{
 
 h1, h2, h3, h4, h5, h6{
 	font-weight: normal;
-	color: #024c65;
+	color: ;
 	text-transform: uppercase;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
 }
 
 #content h2{
-	color: #267fa9;
+	color: ;
 }
 
 #content h3, #content h4, #content h5{
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #content a, #content a:link{
-	color: #267fa9;
+	color: ;
 	font-weight: 400;
 }
 
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6{
 #logo{
 	 overflow-y: visible;
    height: 48px;
-   background-color: #014d65;
+   background-color: ;
    padding-top: 20px;
    padding-bottom: 20px;
    margin-left:  -20px;
@@ -76,12 +76,12 @@ h1, h2, h3, h4, h5, h6{
 	color: #fff;
 }
 header .logo{
-background-color: #014d65
+background-color: 
 }
 	
 
 header{
-	border-color: #014d65;
+	border-color: ;
 }
 
 #news-blog{
@@ -93,13 +93,13 @@ header nav ul li a{
 }
 
 .carousel-caption h4 {
-color: #72c5d2;
+color: ;
 text-transform: none;
 font-size: 24px;
 }
 
 .carousel-caption{
-	color: #72c5d2;
+	color: ;
 text-transform: none;
 font-size: 28px;
 font-weight: 300;
@@ -115,7 +115,7 @@ font-weight: 300;
 }
 
 .action.secondary{
-	background-color: #014D65;
+	background-color: ;
 }
 
 
@@ -144,12 +144,12 @@ background: url('https://s3.amazonaws.com/s3.boldprogressives.org/images/nuno-tx
 
 
 footer{
-	background-color: #014359; 
+	background-color: ; 
 	color: ;
 }
 
 footer nav{
-	background-color: #014B62
+	background-color: 
 }
 
 footer nav ul li a:link, footer nav ul li a:hover, footer nav ul li a:visited {
@@ -158,16 +158,16 @@ footer nav ul li a:link, footer nav ul li a:hover, footer nav ul li a:visited {
 
 
 .action, a.action {
-background-color: #FF3E3F;
+background-color: ;
 color: #fff;
 }
 
 .highlight{
-	background-color: #014d66;
+	background-color: ;
 }
 
 .highlight h2 {
-	color: #a4e2eb;	
+	color: ;	
 }
 
 
