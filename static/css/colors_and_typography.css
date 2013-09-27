@@ -27,14 +27,14 @@ body{
 
 h1, h2, h3, h4, h5, h6{
 	font-weight: normal;
-	color: ;
+	color: rgb(34, 66, 117);
 	text-transform: uppercase;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 400;
 }
 
 #content h2{
-	color: ;
+	color: rgb(34, 66, 117);
 }
 
 #content h3, #content h4, #content h5{
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #content a, #content a:link{
-	color: ;
+	color: rgb(34, 66, 117);
 	font-weight: 400;
 }
 
@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6{
 #logo{
 	 overflow-y: visible;
    height: 48px;
-   background-color: ;
+   background-color: rgb(28, 51, 93);
    padding-top: 20px;
    padding-bottom: 20px;
    margin-left:  -20px;
@@ -76,12 +76,12 @@ h1, h2, h3, h4, h5, h6{
 	color: #fff;
 }
 header .logo{
-background-color: 
+background-color: rgb(28, 51, 93)
 }
 	
 
 header{
-	border-color: ;
+	border-color: rgb(28, 51, 93);
 }
 
 #news-blog{
@@ -93,13 +93,13 @@ header nav ul li a{
 }
 
 .carousel-caption h4 {
-color: ;
+color: rgb(114, 197, 210);
 text-transform: none;
 font-size: 24px;
 }
 
 .carousel-caption{
-	color: ;
+	color: rgb(114, 197, 210);
 text-transform: none;
 font-size: 28px;
 font-weight: 300;
@@ -115,7 +115,7 @@ font-weight: 300;
 }
 
 .action.secondary{
-	background-color: ;
+	background-color: rgb(28, 51, 93);
 }
 
 
@@ -144,12 +144,12 @@ background: url('https://s3.amazonaws.com/s3.boldprogressives.org/images/nuno-tx
 
 
 footer{
-	background-color: ; 
+	background-color: rgb(28, 51, 93); 
 	color: ;
 }
 
 footer nav{
-	background-color: 
+	background-color: rgb(34, 66, 117)
 }
 
 footer nav ul li a:link, footer nav ul li a:hover, footer nav ul li a:visited {
@@ -158,16 +158,16 @@ footer nav ul li a:link, footer nav ul li a:hover, footer nav ul li a:visited {
 
 
 .action, a.action {
-background-color: ;
+background-color: rgb(255, 168, 1);
 color: #fff;
 }
 
 .highlight{
-	background-color: ;
+	background-color: rgb(28, 51, 93);
 }
 
 .highlight h2 {
-	color: ;	
+	color: rgb(114, 197, 210);	
 }
 
 
